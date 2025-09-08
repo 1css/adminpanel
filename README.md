@@ -1,10 +1,11 @@
 ## Screenshots
 
 ### 1. First Screenshot
-![Capture](./public/Capture.png)
+![Capture2](./public/Capture2.PNG)
+
 
 ### 2. Second Screenshot
-![Capture2](./public/Capture2.PNG)
+![Capture](./public/Capture.PNG)
 
 
 # React + Vite
