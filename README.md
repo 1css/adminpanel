@@ -4,7 +4,7 @@
 ![Capture](./public/Capture.png)
 
 ### 2. Second Screenshot
-![Capture2](./public/Capture2.png)
+![Capture2](./public/Capture2.PNG)
 
 
 # React + Vite
