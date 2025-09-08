@@ -1,0 +1,16 @@
+/* Force react-admin content area to use full width */
+.RaLayout-content {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+.RaLayout-contentWithSidebar{
+width:100vw;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
